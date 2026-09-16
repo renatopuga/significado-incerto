@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você mencionar este projeto, cite-o usando estes metadados."
+title: "Significado Incerto: um conto sobre reparo, risco e escolha"
+type: book
+authors:
+  - family-names: "Puga"
+    given-names: "Renato David"
+version: 0.1.0
+repository-code: "https://github.com/renatopuga/significado-incerto"
+license: "proprietary"
+abstract: >-
+  Projeto literário sobre genética, hereditariedade, risco e escolha,
+  desenvolvido a partir de roteiro original do autor com assistência de
+  inteligência artificial na expansão textual.
+keywords:
+  - genética
+  - hereditariedade
+  - reparo do DNA
+  - ficção
