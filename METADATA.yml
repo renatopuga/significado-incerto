@@ -1,0 +1,52 @@
+schema: significado-incerto.book-metadata.v1
+title: "Significado Incerto"
+subtitle: "Um conto sobre reparo, risco e escolha"
+author:
+  name: "Renato David Puga"
+  display_name: "Renato Puga"
+  orcid: null
+language: "pt-BR"
+edition: 1
+version: "0.1.0"
+status: "prepublication"
+work_type: "conto"
+description: >-
+  Projeto literário que aproxima genética, hereditariedade e tomada de decisão
+  de questões humanas como pertencimento, medo, cuidado e escolha.
+keywords:
+  - genética
+  - significado incerto
+  - reparo do DNA
+  - hereditariedade
+  - risco
+  - escolha
+  - ficção científica
+repository:
+  name: "renatopuga/significado-incerto"
+  visibility: "private"
+  created: "2026-09-15"
+identifiers:
+  isbn_ebook: null
+  isbn_print: null
+  doi: null
+publication:
+  publisher: null
+  imprint: null
+  place: null
+  publication_date: null
+  intended_formats:
+    - ebook
+    - print
+rights:
+  copyright_year: 2026
+  copyright_holder: "Renato David Puga"
+  statement: "Todos os direitos reservados."
+  license: null
+ai_assistance:
+  used: true
+  role:
+    - "expansão textual assistida"
+    - "alternativas de redação"
+    - "revisão e organização"
+  human_responsibility: "Renato David Puga"
+  disclosure_file: "AI_ASSISTANCE.md"
