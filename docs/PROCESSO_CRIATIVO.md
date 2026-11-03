@@ -93,7 +93,6 @@ O projeto obteve o ISBN **978-65-02-42027-0** e uma ficha catalográfica. A men�
 | Organização e preparação editorial | Trabalho do autor com ferramentas de edição e auxílio de IA |
 | Decisões finais sobre a versão destinada à publicação | Renato Puga |
 
-Não há uma medição que permita atribuir uma porcentagem confiável ao texto humano e ao texto gerado. Concepção, geração de linguagem, revisão e seleção são atividades distintas. A descrição por etapas é mais fiel ao processo do que uma divisão numérica sem rastreabilidade.
 
 ## 8. Documentação, limites e rastreabilidade
 
